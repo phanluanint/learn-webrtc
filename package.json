@@ -13,6 +13,7 @@
     "webpack-cli": "^3.3.11"
   },
   "scripts": {
+    "start": "node index.js",
     "webpack": "webpack",
     "watch": "webpack -w"
   }
